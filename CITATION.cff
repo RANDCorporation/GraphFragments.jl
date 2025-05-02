@@ -7,9 +7,8 @@ authors:
     given-names: James
     family-names: Syme
     affiliation: RAND
-repository-code: >-
-  MISSING
-url: MISSING
+repository-code: "https://github.com/RANDCorporation/GraphFragments.jl"
+url: "https://github.com/RANDCorporation/black-knights-and-dark-network"
 abstract: >-
   Implement the Distance-based Fragmentation for Key Player Problem Negative
   (KPP-Neg) metrics from Borgatti (2006). Inlcudes serial and parallel 
